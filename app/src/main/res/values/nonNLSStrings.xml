@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MAXS Module Tasker</string>
+    <string name="version">0.1</string>
+    <string name="copyright_extra">and Jack Fagner</string>
+    <string name="pref_app_debug_log_key">DEBUG_LOG</string>
+</resources>
